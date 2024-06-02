@@ -1,4 +1,5 @@
-![Capturar54768745](https://github.com/danilofariaspereira/academia-/assets/143275664/c69f1923-5c17-49cd-9c2c-950ab68ff227)
-![Capturar5454](https://github.com/danilofariaspereira/academia-/assets/143275664/3721ade3-0455-4157-8d5a-769a646267bd)
-![Capturar6748567454](https://github.com/danilofariaspereira/academia-/assets/143275664/0dc6cd85-ba5e-4f46-87cc-5df3bd1dbfef)
-![Capturarkj7](https://github.com/danilofariaspereira/academia-/assets/143275664/b44cb196-995f-4de4-8eb9-9ecb4ac9c4bb)
+![sdgdg](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/fb660e91-5e8a-42f4-ad64-6865eed56776)
+![dsgsfg](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/d5e24ddd-5fa6-46c9-931c-ce3ee3e3aeae)
+![dgggdsxgf](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/14cd1d99-4929-40cb-9ca3-ee527643109f)
+![dsgdsgh](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/24cf2f37-489a-4cb3-a500-f9e3fd985939)
+
