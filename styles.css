@@ -738,7 +738,7 @@ body {
 }
 
 .card-project p {
-  color: #3d3d4b;
+  color: #f8f8fa;
   font-weight: bold;
   font-size: 1.1rem;
   margin: 0rem .75rem;
@@ -950,6 +950,10 @@ body {
   align-items: center;
   flex-direction: column;
   color: var(--color-white);
+}
+
+.h3 a{
+  color: #c7c5c4;
 }
 
 @media (min-width: 1840px) {
