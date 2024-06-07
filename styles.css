@@ -952,10 +952,6 @@ body {
   color: var(--color-white);
 }
 
-.h3 a{
-  color: #c7c5c4;
-}
-
 @media (min-width: 1840px) {
   .container-footer h2 {
     font-size: calc(1vw + .2rem);
