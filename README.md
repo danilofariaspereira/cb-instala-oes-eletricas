@@ -1,5 +1,6 @@
-![sdgdg](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/fb660e91-5e8a-42f4-ad64-6865eed56776)
-![dsgsfg](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/d5e24ddd-5fa6-46c9-931c-ce3ee3e3aeae)
-![dgggdsxgf](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/14cd1d99-4929-40cb-9ca3-ee527643109f)
-![dsgdsgh](https://github.com/danilofariaspereira/el-trica-bandeira-/assets/143275664/24cf2f37-489a-4cb3-a500-f9e3fd985939)
+![image](https://github.com/danilofariaspereira/eletrica-tesla-/assets/143275664/01a639dd-e1d3-44c2-8868-0d7a59241a9f)
+![image](https://github.com/danilofariaspereira/eletrica-tesla-/assets/143275664/39da5064-8f3b-4135-af65-41c9e75d110a)
+![image](https://github.com/danilofariaspereira/eletrica-tesla-/assets/143275664/8aa0df0f-3ea3-498e-84ef-6ce3cb5f1a48)
+![image](https://github.com/danilofariaspereira/eletrica-tesla-/assets/143275664/bbde21e1-689b-40d5-83af-3fab4e75be45)
+
 
